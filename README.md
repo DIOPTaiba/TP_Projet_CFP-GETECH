@@ -5,6 +5,7 @@ CREATION DE SITE WEB POUR LE CENTRE CFP-GETECH
 Identifiant de connexion:
   login : mortaiba
   mot de passe : diop1505
+  port utilisé : 8080
   
 thème utilisé: OceanWP
 	Extensions installées:
